@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey,[Neha here!](https://www.linkedin.com/in/neha-dinesh-prabhu/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img src = 'https://drive.google.com/file/d/16k_Jz0S66-7fuCypMfMANcCSXaDkjo9k/view?usp=sharing' alt = 'Neha-Bitmoji' align='right'/>
 
 <!--
 **Neha-Prabhu/Neha-Prabhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
