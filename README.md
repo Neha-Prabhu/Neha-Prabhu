@@ -2,8 +2,7 @@
 
 <img src = 'https://github.com/Neha-Prabhu/Neha-Prabhu/blob/main/images/bitmoji.png' alt = 'Neha-Bitmoji' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn%20-%231572D9.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/neha-dinesh-prabhu)](https://www.linkedin.com/in/neha-dinesh-prabhu/) [![Gmail Badge](https://img.shields.io/badge/-nehaprabhu8881@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nehaprabhu8881@gmail.com)](mailto:nehaprabhu8881@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn%20-%231572D9.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/neha-dinesh-prabhu)](https://www.linkedin.com/in/neha-dinesh-prabhu/) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-prabhu" alt="neha-prabhu" /> </p>
 
 <p>Welcome to my page! </br> I'm Neha, Software Developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="13"/> <b>Hyderabad, India.</b> Currently pursuing BE 4th Year <a href="cbit.ac.in">@CBIT</a></p>
@@ -13,7 +12,7 @@
 - 🔭 I’m currently working on Adaptive bitrate streaming
 - 🌱 I’m currently learning [Golang](https://gobyexample.com)
 - :rainbow: Hobbies: Listening music :headphones: , watching anime :raccoon: , cooking :shallow_pan_of_food:
-- 📫 How to reach me: [nehaprabhu8881@gmail.com](mailto:nehaprabhu8881@gmail.com)
+- 📫 How to reach me: [Neha Dinesh Prabhu](https://www.linkedin.com/in/neha-dinesh-prabhu/)
 - 😄 Pronouns: she/her
 
 
