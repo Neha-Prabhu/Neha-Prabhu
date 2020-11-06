@@ -1,8 +1,8 @@
 ### Hey,[Neha here!](https://www.linkedin.com/in/neha-dinesh-prabhu/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src = 'https://github.com/neha-prabhu/neha-prabhu/blob/master/images/bitmoji.png' alt = 'Neha-Bitmoji' align='right'/>
+<img src = 'https://github.com/Neha-Prabhu/Neha-Prabhu/blob/main/images/bitmoji.png' alt = 'Neha-Bitmoji' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-neha-prabhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neha-dinesh-prabhu)](https://www.linkedin.com/in/neha-dinesh-prabhu/) [![Gmail Badge](https://img.shields.io/badge/-nehaprabhu8881@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nehaprabhu8881@gmail.com)](mailto:nehaprabhu8881@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/neha-prabhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neha-dinesh-prabhu)](https://www.linkedin.com/in/neha-dinesh-prabhu/) [![Gmail Badge](https://img.shields.io/badge/-nehaprabhu8881@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nehaprabhu8881@gmail.com)](mailto:nehaprabhu8881@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-prabhu" alt="neha-prabhu" /> </p>
 
