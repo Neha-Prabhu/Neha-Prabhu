@@ -1,4 +1,4 @@
-### Hey,[Neha here!](https://www.linkedin.com/in/neha-dinesh-prabhu/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there,[Neha here!](https://www.linkedin.com/in/neha-dinesh-prabhu/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img src = 'https://github.com/Neha-Prabhu/Neha-Prabhu/blob/main/images/bitmoji.png' alt = 'Neha-Bitmoji' align='right'/>
 
@@ -8,14 +8,14 @@
 
 <p>Welcome to my page! </br> I'm Neha, Software Developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="13"/> <b>Hyderabad, India.</b> Currently pursuing BE 4th Year <a href="cbit.ac.in">@CBIT</a></p>
 
-## :computer: About me
-
+## :star2: About me
+- :computer: I like developing Applications and learning new technologies
 - 🔭 I’m currently working on Adaptive bitrate streaming
 - 🌱 I’m currently learning [Golang](https://gobyexample.com)
+- :rainbow: Hobbies: Listening music :headphones: , watching anime :raccoon: , cooking :shallow_pan_of_food:
 - 📫 How to reach me: [nehaprabhu8881@gmail.com](mailto:nehaprabhu8881@gmail.com)
 - 😄 Pronouns: she/her
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neha-prabhu&layout=compact">
 
 ## Technologies I know
 
