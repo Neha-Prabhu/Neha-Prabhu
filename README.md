@@ -2,7 +2,16 @@
 
 <img src = 'https://github.com/Neha-Prabhu/Neha-Prabhu/blob/main/images/bitmoji.png' alt = 'Neha-Bitmoji' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn%20-%231572D9.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/neha-dinesh-prabhu)](https://www.linkedin.com/in/neha-dinesh-prabhu/) 
+<a href="https://twitter.com/NehaPrabhu17">
+  <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="NehaPrabhu's Twitter Profile" height="30" width="30">
+</a>
+<a href="https://www.linkedin.com/in/neha-dinesh-prabhu/">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="NehaPrabhu's LinkedIn Profile" height="30" width="30">
+</a>
+<a href="https://dev.to/nehaprabhu">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="NehaPrabhu's DEV Profile" height="32" width="30">
+</a>
+     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-prabhu" alt="neha-prabhu" /> </p>
 
 <p>Welcome to my page! </br> I'm Neha, Software Developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="13"/> <b>Hyderabad, India.</b> Currently pursuing BE 4th Year <a href="cbit.ac.in">@CBIT</a></p>
