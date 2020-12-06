@@ -48,7 +48,6 @@
 
 ## Other Stuff
 
-- :octocat: [My Resume](https://drive.google.com/file/d/1NWIJ0mWyyp1P6OzSuZMbnBjjuOYG4b7s/view?usp=sharing)
 - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Neha's github stats](https://github-readme-stats.vercel.app/api?username=neha-prabhu&show_icons=true&hide=[%22issues%22])
