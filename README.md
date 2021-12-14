@@ -19,7 +19,7 @@
 ## :star2: About me
 - :computer: I like developing Applications and learning new technologies
 - 🔭 I’m currently working on Adaptive bitrate streaming
-- 🌱 I’m currently learning [Golang](https://gobyexample.com)
+- 🌱 I’m currently learning Reactjs
 - :rainbow: Hobbies: Listening music :headphones: , watching anime :raccoon: , cooking :shallow_pan_of_food:
 - 📫 How to reach me: [Neha Dinesh Prabhu](https://www.linkedin.com/in/neha-dinesh-prabhu/)
 - 😄 Pronouns: she/her
