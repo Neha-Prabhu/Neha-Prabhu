@@ -14,7 +14,7 @@
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-prabhu" alt="neha-prabhu" /> </p>
 
-<p>Welcome to my page! </br> I'm Neha, Software Developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="13"/> <b>Hyderabad, India.</b> Currently I am Associate Software Developer at Servicenow </p>
+<p>Welcome to my page! </br> I'm Neha, Software Developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="13"/> <b>Hyderabad, India.</b> Currently I am an Associate Software Developer at Servicenow </p>
 
 ## :star2: About me
 - :computer: I like developing Applications and learning new technologies
