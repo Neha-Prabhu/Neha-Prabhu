@@ -1,34 +1,4 @@
-### Hi there,[Neha here!](https://www.linkedin.com/in/neha-dinesh-prabhu/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src = 'https://github.com/Neha-Prabhu/Neha-Prabhu/blob/main/images/bitmoji.png' alt = 'Neha-Bitmoji' align='right'/>
-
-<a href="https://twitter.com/NehaPrabhu17">
-  <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="NehaPrabhu's Twitter Profile" height="30" width="30">
-</a>
-<a href="https://www.linkedin.com/in/neha-dinesh-prabhu/">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="NehaPrabhu's LinkedIn Profile" height="30" width="30">
-</a>
-<a href="https://dev.to/nehaprabhu">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="NehaPrabhu's DEV Profile" height="32" width="30">
-</a>
-     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-prabhu" alt="neha-prabhu" /> </p>
-
-<p>Welcome to my page! </br> I'm Neha, Software Developer from <b>Hyderabad, India.</b> Currently I am an Associate Software Developer at Servicenow </p>
-
-## :star2: About me
-- :computer: I like developing Applications and learning new technologies
-- 🔭 I’m currently working on Adaptive bitrate streaming
-- 🌱 I’m currently learning GoLang
-- :rainbow: Hobbies: Listening music :headphones: , watching anime :raccoon: , cooking :shallow_pan_of_food:
-- 📫 How to reach me: [Neha Dinesh Prabhu](https://www.linkedin.com/in/neha-dinesh-prabhu/)
-- 😄 Pronouns: she/her
-
-
-## Technologies I know
-
-<p>  
-  <!--Languages-->
   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=Git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=GitHub&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"/>
@@ -44,10 +14,4 @@
   <img alt="react" src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby%20-%23684299.svg?&style=flat&logo=gatsby&logoColor=white"/>
   <img alt="django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=falt&logo=django&logoColor=white"/>
-</p>
 
-## Other Stuff
-
-- If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
-
-![Neha's github stats](https://github-readme-stats.vercel.app/api?username=neha-prabhu&show_icons=true&hide=[%22issues%22])
